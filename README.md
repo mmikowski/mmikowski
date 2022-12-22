@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome to my GitHub Profile
+
+![Michael Mikowski Github Stats](https://github-readme-stats.vercel.app/api?username=mmikowski&show_icons=true)
 
 <!--
 **mmikowski/mmikowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
